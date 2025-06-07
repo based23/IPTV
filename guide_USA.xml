@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="abc.us">
+    <display-name>ABC</display-name>
+  </channel>
+  <channel id="nbc.us">
+    <display-name>NBC</display-name>
+  </channel>
+  <channel id="cbs.us">
+    <display-name>CBS</display-name>
+  </channel>
+</tv>

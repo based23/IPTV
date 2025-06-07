@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="abc.us" tvg-name="ABC" tvg-logo="" group-title="USA",ABC
+http://example.com/abc.m3u8
+#EXTINF:-1 tvg-id="nbc.us" tvg-name="NBC" tvg-logo="" group-title="USA",NBC
+http://example.com/nbc.m3u8
+#EXTINF:-1 tvg-id="cbs.us" tvg-name="CBS" tvg-logo="" group-title="USA",CBS
+http://example.com/cbs.m3u8
