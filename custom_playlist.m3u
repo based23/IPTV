@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="https://logo.clearbit.com/cnn.com" group-title="News",CNN
+http://51.15.246.58:8081/live/cnn/playlist.m3u8
+#EXTINF:-1 tvg-id="wapa.pr" tvg-name="WAPA TV" tvg-logo="https://logo.clearbit.com/wapa.tv" group-title="Puerto Rico",WAPA TV
+http://104.244.76.13:4000/play/wapa/index.m3u8
+#EXTINF:-1 tvg-id="telemundopr.pr" tvg-name="Telemundo PR" tvg-logo="https://logo.clearbit.com/telemundopr.com" group-title="Puerto Rico",Telemundo Puerto Rico
+http://179.43.160.10:8080/PR/telemundo/playlist.m3u8
