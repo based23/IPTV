@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="https://logo.clearbit.com/cnn.com" group-title="News",CNN
+http://example.com/stream/cnn.m3u8
+#EXTINF:-1 tvg-id="wapa.pr" tvg-name="WAPA TV" tvg-logo="https://logo.clearbit.com/wapa.tv" group-title="Puerto Rico",WAPA TV
+http://example.com/stream/wapa.m3u8

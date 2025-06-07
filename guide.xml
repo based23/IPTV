@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="cnn.us">
+    <display-name>CNN</display-name>
+  </channel>
+  <programme start="20250606180000 +0000" stop="20250606190000 +0000" channel="cnn.us">
+    <title lang="en">News Hour</title>
+    <desc lang="en">Breaking global news coverage.</desc>
+  </programme>
+  <channel id="wapa.pr">
+    <display-name>WAPA TV</display-name>
+  </channel>
+  <programme start="20250606180000 +0000" stop="20250606190000 +0000" channel="wapa.pr">
+    <title lang="es">Noticias Puerto Rico</title>
+    <desc lang="es">Cobertura en vivo desde Puerto Rico.</desc>
+  </programme>
+</tv>
