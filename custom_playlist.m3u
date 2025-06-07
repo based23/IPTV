@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bbc.uk" tvg-name="BBC One" tvg-logo="https://logo.clearbit.com/bbc.co.uk" group-title="United Kingdom",BBC One
+http://example.com/bbc1.m3u8
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN" tvg-logo="https://logo.clearbit.com/cnn.com" group-title="United States",CNN
+http://example.com/cnn.m3u8
