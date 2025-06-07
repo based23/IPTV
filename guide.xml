@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv>
-  <channel id="bbc.uk">
-    <display-name>BBC One</display-name>
-  </channel>
-  <channel id="cnn.us">
-    <display-name>CNN</display-name>
-  </channel>
-</tv>
